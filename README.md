@@ -1,8 +1,8 @@
 ### fala ai seus uc de burro ♒
-.
-mau nome é matheus henrique mas chamam de paçoca.
 
-EU estou estudando na [alura](https://www.alura.com.br)
+meu nome é matheus henrique mas chamam de paçoca.
+
+Eu estou estudando na [alura](https://www.alura.com.br)
 
 eu to fazendo uma porrada de cursos agora e esse é um deles. 
 ![](![image](https://media.tenor.com/D3IBduy2KV4AAAAM/shrek-donkey.gif)
